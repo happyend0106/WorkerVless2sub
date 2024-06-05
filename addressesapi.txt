@@ -1,3 +1,6 @@
+dogechain.info
+www.idle-empire.com
+www.zendesk.com
 104.26.7.110:443#US
 104.26.6.110:443#US
 172.67.73.251:443#US
