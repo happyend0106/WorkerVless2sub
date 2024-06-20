@@ -1,7 +1,11 @@
+bestcf.20121020.xyz
+freeyx.cloudflare88.eu.org
+yx.887141.xyz
+f3058171cad.002404.xyz
 cdn-b100.xn--b6gac.eu.org
 xn--b6gac.eu.org
 japan.com
-bestcf.20121020.xyz
+singapore.com
 www.whoer.net
 www.hugedomains.com
 www.baipiao.eu.org
@@ -11,7 +15,6 @@ acjp2.cloudflarest.link
 acsg.cloudflarest.link
 acsg3.cloudflarest.link
 bestproxy.onecf.eu.org
-singapore.com
 dogechain.info
 www.idle-empire.com
 www.zendesk.com
