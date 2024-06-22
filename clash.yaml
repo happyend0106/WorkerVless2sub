@@ -1,0 +1,321 @@
+proxies:
+  - {name: DX印度-SS|1x, server: hzgy.ewenhot.top, port: 12551, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 马来西亚-04-1B, server: nbcm01.qingqiu.buzz, port: 49699, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 朝鲜-04-1B, server: nbcm01.qingqiu.buzz, port: 30713, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 德国-01-1B, server: 02-foxi-biegongkai.gangbi.vip, port: 50301, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 日本03, server: iepl.hongxing.pro, port: 60703, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: DX香港02|广港|1x, server: hzgy.ewenhot.top, port: 16071, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 巴基斯坦-01-1A, server: 02-danding-foxi.gangbi.vip, port: 26109, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡-03-1A, server: 02-foxi-biegongkai.gangbi.vip, port: 24094, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 韩国-2, server: oracle-arm-chuncheon2.lanmaoyun.icu, port: 30001, type: hysteria2, password: 0f36fc0f-647e-4489-802a-4506a4babf70, auth: 0f36fc0f-647e-4489-802a-4506a4babf70, sni: korea.nodes.lanmaoyun.icu, skip-cert-verify: true, udp: true}
+  - {name: 美国-09-1A, server: vip1hz1.whatfuck.top, port: 14603, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡-03-1B, server: 02-foxi-biegongkai.gangbi.vip, port: 24094, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 日本01, server: iepl.hongxing.pro, port: 60701, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 泰国-05-1B, server: sdcu_20240509.qingqiu.buzz, port: 37185, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 朝鲜-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 50164, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 尼日利亚-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 58731, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 美国-08-1B, server: ny.whatfuck.top, port: 41161, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 日本-02-1B, server: video.111365.xyz, port: 16741, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 德国-04-1A, server: szcm01_20240509.qingqiu.buzz, port: 53714, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 台湾-01-1B, server: 03-neibuyong.gangbi.vip, port: 47287, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 新加坡-06-1A, server: nbcm01.qingqiu.buzz, port: 34308, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: DX日本|1x, server: hzgy.ewenhot.top, port: 19381, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 德国-04-1B, server: szcm01_20240509.qingqiu.buzz, port: 53714, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 韩国-05-1A, server: sdcu_20240509.qingqiu.buzz, port: 54574, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 美国-01-1B, server: 03-neibuyong.gangbi.vip, port: 58777, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 墨尔本, server: ccy.colacloud.free.hr, port: 2095, type: vless, uuid: 506d9c8e-cca9-4155-8faa-a03a5766daed, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: aurt.colacloud.free.hr}}, udp: true}
+  - {name: 阿联酋-04-1A, server: nbcm01.qingqiu.buzz, port: 52793, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡-04-1A, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 15838, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 用不了 请使用备用04 05节点, server: 中转节点被攻击，加飞机群领备用订阅, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 台湾-09-1A, server: vip1hz1.whatfuck.top, port: 38812, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 泰国-04-1A, server: nbcm01.qingqiu.buzz, port: 63644, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 美国-06-1B, server: nbcm01.qingqiu.buzz, port: 34074, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 尼日利亚-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 58731, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国-02-1B, server: video.111365.xyz, port: 12758, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 日本-09-1B, server: vip1hz1.whatfuck.top, port: 13990, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: SG | 新加坡 LB-1B, server: sgcft01.xqc.best, port: 443, type: vmess, uuid: 3ab40c1a-b061-4b1b-b588-63a0b0131fc7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: d1nal26v8jyfe2.cloudfront.net, network: ws, ws-opts: {path: /stream, headers: {Host: d1nal26v8jyfe2.cloudfront.net}}, udp: true}
+  - {name: 俄罗斯-04-1B, server: nbcm01.qingqiu.buzz, port: 13203, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 印度尼西亚-02-1A, server: video.111365.xyz, port: 17748, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 泰国-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 56988, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港-08-1A, server: ny.whatfuck.top, port: 31874, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: LS台湾|1x, server: szyd.ewenhot.top, port: 29637, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 英国-02-1A, server: video.111365.xyz, port: 16239, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 孟加拉-04-1A, server: nbcm01.qingqiu.buzz, port: 53106, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡-01-1B, server: 03-neibuyong.gangbi.vip, port: 32018, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 法国-03-1A, server: nbcm01.qingqiu.buzz, port: 46680, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 台湾-09-1B, server: vip1hz1.whatfuck.top, port: 38812, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 英国01-1B, server: iepl.hongxing.pro, port: 61001, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 印度-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 39348, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: HY2日本大阪-0.8x, server: jpnat.dackcf1.top, port: 20081, type: hysteria2, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, auth: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, sni: jpnat.dackcf1.top, skip-cert-verify: true, udp: true}
+  - {name: 日本-01-1A, server: 03-neibuyong.gangbi.vip, port: 20517, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 朝鲜-01-1A, server: 02-danding-foxi.gangbi.vip, port: 33961, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 朝鲜-02-1B, server: video.111365.xyz, port: 15544, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: LS香港02|广港|1x, server: szyd.ewenhot.top, port: 13648, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 美国-07-1B, server: sdcu_20240509.qingqiu.buzz, port: 27132, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 法国-04-1A, server: szcm01_20240509.qingqiu.buzz, port: 29514, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 台湾-03-1B, server: 02-foxi-biegongkai.gangbi.vip, port: 41027, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 法国01, server: iepl.hongxing.pro, port: 61201, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: LS日本|1x, server: szyd.ewenhot.top, port: 24893, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 香港-01-1A, server: 03-neibuyong.gangbi.vip, port: 58116, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 爱尔兰01, server: iepl.hongxing.pro, port: 61301, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 孟加拉-02-1B, server: video.111365.xyz, port: 16423, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 德国01, server: iepl.hongxing.pro, port: 61101, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 马来西亚-02-1B, server: video.111365.xyz, port: 13480, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: DX柬埔寨-SS|1x, server: hzgy.ewenhot.top, port: 32942, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 美国01-1A, server: gduo.lyunsub.win, port: 15532, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 日本-01-1B, server: 03-neibuyong.gangbi.vip, port: 20517, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 英国-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 55660, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 朝鲜-01-1B, server: 02-danding-foxi.gangbi.vip, port: 33961, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 意大利01, server: iepl.hongxing.pro, port: 62401, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡04, server: iepl.hongxing.pro, port: 60304, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本-05-1B, server: sdcu_20240509.qingqiu.buzz, port: 59806, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港-02-1B, server: video.111365.xyz, port: 14658, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 印度-01-1B, server: 02-danding-foxi.gangbi.vip, port: 42585, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港-05-1B, server: sdcu_20240509.qingqiu.buzz, port: 28206, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 新加坡-01-1A, server: 03-neibuyong.gangbi.vip, port: 32018, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 巴基斯坦-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 60734, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 俄罗斯-02-1B, server: video.111365.xyz, port: 16844, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: JP | 日本 LB-1A, server: jpcft01.xqc.best, port: 443, type: vmess, uuid: 7a838548-08d5-4aa6-85c6-b9bc62b1659a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dd7xps5fj6dfo.cloudfront.net, network: ws, ws-opts: {path: /stream, headers: {Host: dd7xps5fj6dfo.cloudfront.net}}, udp: true}
+  - {name: DX新加坡|1x, server: hzgy.ewenhot.top, port: 45021, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: DX香港01|三网|1x, server: hzgy.ewenhot.top, port: 13490, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 韩国-06-1A, server: sdcu01.duiha.cn, port: 13183, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 美国-09-1B, server: vip1hz1.whatfuck.top, port: 14603, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 台湾-04-1B, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 18902, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 奥地利01, server: iepl.hongxing.pro, port: 61401, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 泰国-02-1B, server: video.111365.xyz, port: 13406, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国04, server: iepl.hongxing.pro, port: 60904, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 印度尼西亚-04-1A, server: nbcm01.qingqiu.buzz, port: 46204, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡-02-1B, server: video.111365.xyz, port: 18622, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: LS新加坡|1x, server: szyd.ewenhot.top, port: 41623, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 英国01-1A, server: gduo.lyunsub.win, port: 15634, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 美国-08-1A, server: ny.whatfuck.top, port: 41161, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 泰国-02-1A, server: video.111365.xyz, port: 13406, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 日本-02-1A, server: video.111365.xyz, port: 16741, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: DX意大利-SS|1x, server: hzgy.ewenhot.top, port: 40515, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 俄罗斯-04-1A, server: nbcm01.qingqiu.buzz, port: 13203, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 美国01-1B, server: iepl.hongxing.pro, port: 60901, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本-04-1A, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 44359, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 希腊01, server: iepl.hongxing.pro, port: 62301, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 孟加拉-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 56252, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 法国-02-1B, server: video.111365.xyz, port: 14753, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 巴基斯坦-01-1B, server: 02-danding-foxi.gangbi.vip, port: 26109, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 孟加拉-01-1B, server: 02-danding-foxi.gangbi.vip, port: 33301, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: DX香港03 解锁|1x, server: hzgy.ewenhot.top, port: 18596, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: SG | 新加坡 LB-1A, server: sgcft01.xqc.best, port: 443, type: vmess, uuid: 7a838548-08d5-4aa6-85c6-b9bc62b1659a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: d1nal26v8jyfe2.cloudfront.net, network: ws, ws-opts: {path: /stream, headers: {Host: d1nal26v8jyfe2.cloudfront.net}}, udp: true}
+  - {name: DX西班牙-SS|1x, server: hzgy.ewenhot.top, port: 24528, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 尼日利亚-04-1B, server: nbcm01.qingqiu.buzz, port: 58138, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 日本-03-1A, server: 02-foxi-biegongkai.gangbi.vip, port: 19256, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: DX德国-SS|1x, server: hzgy.ewenhot.top, port: 44281, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 台湾-04-1A, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 18902, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 韩国-01-1B, server: 03-neibuyong.gangbi.vip, port: 46141, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港04-备用, server: 125.124.182.121, port: 15638, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 丹麦01, server: iepl.hongxing.pro, port: 61601, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 法国-01-1A, server: 03-neibuyong.gangbi.vip, port: 14123, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 台湾-02-1A, server: video.111365.xyz, port: 10812, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 台湾-06-1A, server: nbcm01.qingqiu.buzz, port: 61327, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡03-1A, server: gduo.lyunsub.win, port: 15627, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 泰国-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 56988, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 香港-05-1A, server: sdcu_20240509.qingqiu.buzz, port: 28206, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡-07-1A, server: sdcu_20240509.qingqiu.buzz, port: 14697, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 马来西亚-01-1B, server: 02-danding-foxi.gangbi.vip, port: 49711, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 台湾, server: ccy.colacloud.free.hr, port: 2086, type: vless, uuid: 506d9c8e-cca9-4155-8faa-a03a5766daed, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: tw.colacloud.free.hr}}, udp: true}
+  - {name: LS香港03 解锁|1x, server: szyd.ewenhot.top, port: 27669, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 英国-05-1B, server: sdcu_20240509.qingqiu.buzz, port: 33142, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国03备用, server: gduo.lyunsub.win, port: 15640, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 美国-03-1B, server: 02-foxi-biegongkai.gangbi.vip, port: 15257, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 阿联酋-01-1B, server: 02-danding-foxi.gangbi.vip, port: 24874, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国03, server: iepl.hongxing.pro, port: 60903, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港-06-1A, server: nbcm01.qingqiu.buzz, port: 10945, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 印度-02-1A, server: video.111365.xyz, port: 10890, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 德国-02-1B, server: video.111365.xyz, port: 18091, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 巴基斯坦-04-1A, server: nbcm01.qingqiu.buzz, port: 31254, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 日本-2, server: oracle-amd-osaka1.lanmaoyun.icu, port: 30001, type: hysteria2, password: 0f36fc0f-647e-4489-802a-4506a4babf70, auth: 0f36fc0f-647e-4489-802a-4506a4babf70, sni: osaka.nodes.lanmaoyun.icu, skip-cert-verify: true, udp: true}
+  - {name: 台湾-06-1B, server: nbcm01.qingqiu.buzz, port: 61327, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: DX荷兰-SS|1x, server: hzgy.ewenhot.top, port: 19684, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 韩国-1, server: oracle-arm-chuncheon1.lanmaoyun.icu, port: 30001, type: hysteria2, password: 0f36fc0f-647e-4489-802a-4506a4babf70, auth: 0f36fc0f-647e-4489-802a-4506a4babf70, sni: korea.nodes.lanmaoyun.icu, skip-cert-verify: true, udp: true}
+  - {name: 印度-02-1B, server: video.111365.xyz, port: 10890, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 朝鲜-04-1A, server: nbcm01.qingqiu.buzz, port: 30713, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: DX法国-SS|1x, server: hzgy.ewenhot.top, port: 32658, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 台湾03, server: iepl.hongxing.pro, port: 60203, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾-08-1B, server: ny.whatfuck.top, port: 21774, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 新加坡-08-1B, server: ny.whatfuck.top, port: 32920, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国-01-1A, server: 03-neibuyong.gangbi.vip, port: 58777, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 澳大利亚-01-1B, server: 02-foxi-biegongkai.gangbi.vip, port: 10957, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 韩国-01-1A, server: 03-neibuyong.gangbi.vip, port: 46141, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: DX台湾|1x, server: hzgy.ewenhot.top, port: 17791, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 印度尼西亚-04-1B, server: nbcm01.qingqiu.buzz, port: 46204, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 台湾04, server: iepl.hongxing.pro, port: 60204, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港-04-1B, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 40869, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 日本五小时试用节点, server: 03.xissyun.com, port: 11317, type: vmess, uuid: bd52693f-ceb4-4a15-93bb-40c45ec20126, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 英国-04-1A, server: nbcm01.qingqiu.buzz, port: 25597, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 越南01, server: iepl.hongxing.pro, port: 60401, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: DX美国|1x, server: hzgy.ewenhot.top, port: 26323, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 泰国-04-1B, server: nbcm01.qingqiu.buzz, port: 63644, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国-02-1A, server: video.111365.xyz, port: 12758, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 香港-04-1A, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 40869, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡02-1B, server: iepl.hongxing.pro, port: 60302, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 印度-04-1B, server: nbcm01.qingqiu.buzz, port: 49615, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 俄罗斯-01-1A, server: 02-danding-foxi.gangbi.vip, port: 21163, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 美国-03-1A, server: 02-foxi-biegongkai.gangbi.vip, port: 15257, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 葡萄牙01, server: iepl.hongxing.pro, port: 62101, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本-1, server: oracle-amd-tokyo1.lanmaoyun.icu, port: 30001, type: hysteria2, password: 0f36fc0f-647e-4489-802a-4506a4babf70, auth: 0f36fc0f-647e-4489-802a-4506a4babf70, sni: tokyo.nodes.lanmaoyun.icu, skip-cert-verify: true, udp: true}
+  - {name: 香港01-1B, server: iepl.hongxing.pro, port: 60101, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡-04-1B, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 15838, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 欧洲-伦敦-1, server: oracle-arm-london1.lanmaoyun.icu, port: 30001, type: hysteria2, password: 0f36fc0f-647e-4489-802a-4506a4babf70, auth: 0f36fc0f-647e-4489-802a-4506a4babf70, sni: london1.nodes.lanmaoyun.icu, skip-cert-verify: true, udp: true}
+  - {name: 印度尼西亚-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 47361, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 澳大利亚-01-1A, server: 02-foxi-biegongkai.gangbi.vip, port: 10957, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: DX韩国|1x, server: hzgy.ewenhot.top, port: 13666, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 巴基斯坦-04-1B, server: nbcm01.qingqiu.buzz, port: 31254, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 巴西01, server: iepl.hongxing.pro, port: 62801, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 孟加拉-04-1B, server: nbcm01.qingqiu.buzz, port: 53106, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 法国-04-1B, server: szcm01_20240509.qingqiu.buzz, port: 29514, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 台湾-05-1A, server: sdcu_20240509.qingqiu.buzz, port: 39756, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 台湾-08-1A, server: ny.whatfuck.top, port: 21774, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 马来西亚-01-1A, server: 02-danding-foxi.gangbi.vip, port: 49711, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡-02-1A, server: video.111365.xyz, port: 18622, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 日本-06-1A, server: nbcm01.qingqiu.buzz, port: 29032, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 泰国-01-1B, server: 03-neibuyong.gangbi.vip, port: 27988, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 西班牙01, server: iepl.hongxing.pro, port: 62901, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港-03-1B, server: 02-foxi-biegongkai.gangbi.vip, port: 37181, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 瑞士01, server: iepl.hongxing.pro, port: 62501, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: LS美国|1x, server: szyd.ewenhot.top, port: 18825, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 阿联酋-02-1B, server: video.111365.xyz, port: 10117, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国-04-1A, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 10338, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 韩国-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 14188, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 印度-01-1A, server: 02-danding-foxi.gangbi.vip, port: 42585, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 美国-07-1A, server: sdcu_20240509.qingqiu.buzz, port: 27132, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 德国-01-1A, server: 02-foxi-biegongkai.gangbi.vip, port: 50301, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 台湾02|直连路线X0.5, server: cfnatji2.x2tanzhen.top, port: 2052, type: vmess, uuid: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/x2cloud?ed=2048", headers: {Host: twnat2.dackcf1.top}}, udp: true}
+  - {name: 英国-05-1A, server: sdcu_20240509.qingqiu.buzz, port: 33142, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 泰国-01-1A, server: 03-neibuyong.gangbi.vip, port: 27988, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 澳大利亚-02-1B, server: video.111365.xyz, port: 17538, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: DX冰岛-SS|1x, server: hzgy.ewenhot.top, port: 15705, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 香港03-1A, server: gduo.lyunsub.win, port: 15635, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 英国-01-1B, server: 03-neibuyong.gangbi.vip, port: 13134, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 澳大利亚-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 31093, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 韩国-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 14188, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡-05-1A, server: szcm01_20240509.qingqiu.buzz, port: 41000, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 韩国-02-1B, server: video.111365.xyz, port: 14328, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 日本-09-1A, server: vip1hz1.whatfuck.top, port: 13990, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 南非01, server: iepl.hongxing.pro, port: 62601, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 印度-04-1A, server: nbcm01.qingqiu.buzz, port: 49615, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: JP | 日本 LB-1B, server: jpcft01.xqc.best, port: 443, type: vmess, uuid: 3ab40c1a-b061-4b1b-b588-63a0b0131fc7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dd7xps5fj6dfo.cloudfront.net, network: ws, ws-opts: {path: /stream, headers: {Host: dd7xps5fj6dfo.cloudfront.net}}, udp: true}
+  - {name: 台湾02, server: iepl.hongxing.pro, port: 60202, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 阿联酋-01-1A, server: 02-danding-foxi.gangbi.vip, port: 24874, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 日本-05-1A, server: sdcu_20240509.qingqiu.buzz, port: 59806, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 美国-05-1B, server: nbcm01v6.qingqiu.buzz, port: 34074, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: DX阿联酋-SS|1x, server: hzgy.ewenhot.top, port: 35597, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 台湾-02-1B, server: video.111365.xyz, port: 10812, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 俄罗斯01, server: iepl.hongxing.pro, port: 63101, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 捷克01, server: iepl.hongxing.pro, port: 61801, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 韩国-05-1B, server: sdcu_20240509.qingqiu.buzz, port: 54574, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 澳大利亚-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 31093, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 法国-01-1B, server: 03-neibuyong.gangbi.vip, port: 14123, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 新加坡-08-1A, server: ny.whatfuck.top, port: 32920, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 香港-02-1A, server: video.111365.xyz, port: 14658, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 香港02-1B, server: iepl.hongxing.pro, port: 60102, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本-06-1B, server: nbcm01.qingqiu.buzz, port: 29032, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: DX英国-SS|1x, server: hzgy.ewenhot.top, port: 10522, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 印度-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 39348, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 日本-08-1B, server: ny.whatfuck.top, port: 14787, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港02-1A, server: gduo.lyunsub.win, port: 15631, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 韩国-三网优化2, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: b7e72809-793b-4ffc-a6c8-0b78c4fc3ceb, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
+  - {name: 英国-02-1B, server: video.111365.xyz, port: 16239, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 日本04, server: iepl.hongxing.pro, port: 60704, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 欧洲-法兰克福-1, server: oracle-arm-frankfurt1.lanmaoyun.icu, port: 30001, type: hysteria2, password: 0f36fc0f-647e-4489-802a-4506a4babf70, auth: 0f36fc0f-647e-4489-802a-4506a4babf70, sni: frankfurt1.nodes.lanmaoyun.icu, skip-cert-verify: true, udp: true}
+  - {name: HK | 香港 LB-1B, server: hkcft01.xqc.best, port: 443, type: vmess, uuid: 3ab40c1a-b061-4b1b-b588-63a0b0131fc7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: d84zxlca209ol.cloudfront.net, network: ws, ws-opts: {path: /stream, headers: {Host: d84zxlca209ol.cloudfront.net}}, udp: true}
+  - {name: 新加坡-06-1B, server: nbcm01.qingqiu.buzz, port: 34308, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 阿联酋-04-1B, server: nbcm01.qingqiu.buzz, port: 52793, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国-06-1A, server: nbcm01.qingqiu.buzz, port: 34074, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 尼日利亚-04-1A, server: nbcm01.qingqiu.buzz, port: 58138, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 香港05-备用, server: 125.124.182.121, port: 15639, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 香港03-1B, server: iepl.hongxing.pro, port: 60103, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 俄罗斯-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 22124, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国02-1B, server: iepl.hongxing.pro, port: 60902, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 德国-03-1A, server: nbcm01.qingqiu.buzz, port: 14525, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 日本02, server: iepl.hongxing.pro, port: 60702, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡-05-1B, server: szcm01_20240509.qingqiu.buzz, port: 41000, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港-10-1B, server: nbcm01v6.qingqiu.buzz, port: 10945, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 孟加拉-01-1A, server: 02-danding-foxi.gangbi.vip, port: 33301, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 台湾01-1B, server: iepl.hongxing.pro, port: 60201, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 巴基斯坦-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 60734, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 台湾-01-1A, server: 03-neibuyong.gangbi.vip, port: 47287, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 巴基斯坦-02-1B, server: video.111365.xyz, port: 17086, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 克罗地亚01, server: iepl.hongxing.pro, port: 61901, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 朝鲜-02-1A, server: video.111365.xyz, port: 15544, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 日本-08-1A, server: ny.whatfuck.top, port: 14787, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 香港-10-1A, server: nbcm01v6.qingqiu.buzz, port: 10945, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 乌克兰01, server: iepl.hongxing.pro, port: 63001, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾01-1A, server: gduo.lyunsub.win, port: 15632, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 韩国-04-1A, server: nbcm01.qingqiu.buzz, port: 61284, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 巴基斯坦-02-1A, server: video.111365.xyz, port: 17086, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡-07-1B, server: sdcu_20240509.qingqiu.buzz, port: 14697, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: HK | 香港 LB-1A, server: hkcft01.xqc.best, port: 443, type: vmess, uuid: 7a838548-08d5-4aa6-85c6-b9bc62b1659a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: d84zxlca209ol.cloudfront.net, network: ws, ws-opts: {path: /stream, headers: {Host: d84zxlca209ol.cloudfront.net}}, udp: true}
+  - {name: 台湾01|直连路线X0.5, server: cfnatji1.x2tanzhen.top, port: 8080, type: vmess, uuid: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/x2cloud?ed=2048", headers: {Host: twnat2.dackcf1.top}}, udp: true}
+  - {name: 泰国-05-1A, server: sdcu_20240509.qingqiu.buzz, port: 37185, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 法国-02-1A, server: video.111365.xyz, port: 14753, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 美国-05-1A, server: nbcm01v6.qingqiu.buzz, port: 34074, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: LS韩国|1x, server: szyd.ewenhot.top, port: 48296, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 澳大利亚-02-1A, server: video.111365.xyz, port: 17538, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 尼日利亚-02-1B, server: video.111365.xyz, port: 14555, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 印度尼西亚-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 47361, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 香港-01-1B, server: 03-neibuyong.gangbi.vip, port: 58116, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 新加坡03-1B, server: iepl.hongxing.pro, port: 60303, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 波兰01, server: iepl.hongxing.pro, port: 61501, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾-03-1A, server: 02-foxi-biegongkai.gangbi.vip, port: 41027, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 英国-04-1B, server: nbcm01.qingqiu.buzz, port: 25597, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 新加坡-1, server: oracle-amd-singapore1.lanmaoyun.icu, port: 30001, type: hysteria2, password: 0f36fc0f-647e-4489-802a-4506a4babf70, auth: 0f36fc0f-647e-4489-802a-4506a4babf70, sni: main.nodes.lanmaoyun.icu, skip-cert-verify: true, udp: true}
+  - {name: 俄罗斯-01-1B, server: 02-danding-foxi.gangbi.vip, port: 21163, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港-03-1A, server: 02-foxi-biegongkai.gangbi.vip, port: 37181, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 尼日利亚-01-1B, server: 02-danding-foxi.gangbi.vip, port: 22209, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 新加坡02-1A, server: gduo.lyunsub.win, port: 15637, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 孟加拉-02-1A, server: video.111365.xyz, port: 16423, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 法国-03-1B, server: nbcm01.qingqiu.buzz, port: 46680, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 荷兰01, server: iepl.hongxing.pro, port: 61701, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 韩国-04-1B, server: nbcm01.qingqiu.buzz, port: 61284, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 德国-03-1B, server: nbcm01.qingqiu.buzz, port: 14525, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 北美-US-圣何塞-2, server: oracle-amd-san-jose2.lanmaoyun.icu, port: 30001, type: hysteria2, password: 0f36fc0f-647e-4489-802a-4506a4babf70, auth: 0f36fc0f-647e-4489-802a-4506a4babf70, sni: san-jose2.nodes.lanmaoyun.icu, skip-cert-verify: true, udp: true}
+  - {name: 日本-04-1B, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 44359, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国02-1A, server: gduo.lyunsub.win, port: 15628, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: DX墨西哥-SS|1x, server: hzgy.ewenhot.top, port: 16231, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 印度尼西亚-01-1B, server: 02-danding-foxi.gangbi.vip, port: 17482, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港01-1A, server: gduo.lyunsub.win, port: 19630, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 香港-13-1B, server: vip1hz1.whatfuck.top, port: 22238, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 新加坡01-1A, server: gduo.lyunsub.win, port: 15636, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 英国-01-1A, server: 03-neibuyong.gangbi.vip, port: 13134, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 俄罗斯-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 22124, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 马来西亚-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 39414, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 瑞段01, server: iepl.hongxing.pro, port: 62201, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: DX土耳其-SS|1x, server: hzgy.ewenhot.top, port: 20403, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 罗马尼亚01, server: iepl.hongxing.pro, port: 62001, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 德国-02-1A, server: video.111365.xyz, port: 18091, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 韩国-02-1A, server: video.111365.xyz, port: 14328, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 马来西亚-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 39414, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 韩国-06-1B, server: sdcu01.duiha.cn, port: 13183, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 印度尼西亚-02-1B, server: video.111365.xyz, port: 17748, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 美国-04-1B, server: 01-foxi-aidajiuguanji.gangbi.vip, port: 10338, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 阿联酋-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 26637, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 阿联酋-02-1A, server: video.111365.xyz, port: 10117, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: DX马来西亚-SS|1x, server: hzgy.ewenhot.top, port: 34997, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 香港-08-1B, server: ny.whatfuck.top, port: 31874, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港-06-1B, server: nbcm01.qingqiu.buzz, port: 10945, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 韩国-首尔, server: oracle-arm-seoul1.lanmaoyun.icu, port: 30001, type: hysteria2, password: 0f36fc0f-647e-4489-802a-4506a4babf70, auth: 0f36fc0f-647e-4489-802a-4506a4babf70, sni: korea.nodes.lanmaoyun.icu, skip-cert-verify: true, udp: true}
+  - {name: 香港06-备用, server: 125.124.182.121, port: 15641, type: ss, cipher: chacha20-ietf-poly1305, password: bba5ea90-a604-4616-bfeb-1c1d7af649bc, udp: true}
+  - {name: 尼日利亚-02-1A, server: video.111365.xyz, port: 14555, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 香港-13-1A, server: vip1hz1.whatfuck.top, port: 22238, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: LS香港01|三网|1x, server: szyd.ewenhot.top, port: 28921, type: ss, cipher: chacha20-ietf-poly1305, password: 761f52f9-0255-4c03-8bc9-865b0dd9f3fd, udp: true}
+  - {name: 台湾-05-1B, server: sdcu_20240509.qingqiu.buzz, port: 39756, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 印度尼西亚-01-1A, server: 02-danding-foxi.gangbi.vip, port: 17482, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 孟加拉-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 56252, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 香港04, server: iepl.hongxing.pro, port: 60104, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 俄罗斯-02-1A, server: video.111365.xyz, port: 16844, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 尼日利亚-01-1A, server: 02-danding-foxi.gangbi.vip, port: 22209, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 尼日利亚01, server: iepl.hongxing.pro, port: 62701, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 朝鲜-03-1A, server: szcm01_20240509.qingqiu.buzz, port: 50164, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 日本-03-1B, server: 02-foxi-biegongkai.gangbi.vip, port: 19256, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 阿联酋-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 26637, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 英国-03-1B, server: szcm01_20240509.qingqiu.buzz, port: 55660, type: ss, cipher: aes-128-gcm, password: c183fa5a-fcb6-4321-a808-296e8b55a185, udp: true}
+  - {name: 马来西亚-04-1A, server: nbcm01.qingqiu.buzz, port: 49699, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
+  - {name: 新加坡01-1B, server: iepl.hongxing.pro, port: 60301, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 韩国01, server: iepl.hongxing.pro, port: 60801, type: vmess, uuid: 91a75a9f-aab5-4bb8-87d6-6e931c8ae0ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 马来西亚-02-1A, server: video.111365.xyz, port: 13480, type: ss, cipher: aes-128-gcm, password: a6a5dc0a-ecba-4428-8122-d8b45622f3ea, udp: true}
